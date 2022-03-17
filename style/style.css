@@ -1,0 +1,306 @@
+.linha-top
+{
+    background-color: #39ddc5;
+    padding: 5px;
+}
+a:link 
+{
+    text-decoration: none;
+    color: #3f5f5e!important;
+} 
+
+a:hover
+{
+    color: #3f5f5e!important;
+}
+
+a:active
+{
+    color: #3f5f5e!important;
+}
+
+.menu-top
+{
+    background-color: #f2f2f2;
+    text-decoration: none;
+    padding: 5px;
+    padding-right: 250px;
+    
+}
+
+.links-top
+{
+    padding-right: 30px;
+    color: #3f5f5e!important;
+    float: right;
+}
+
+.logo
+{
+    padding-bottom: 10px;
+    padding-left: 300px;
+}
+
+.linha-menu
+{
+    height: 100px;
+}
+
+
+.menu
+{
+    display: inline;
+    padding: .5rem 1rem;
+    color: black!important;
+    text-decoration: none;
+    justify-content: center;
+    display: flex;
+}
+
+.menu-link
+{
+    display: inline;
+    justify-content: center;
+    padding-top: 20px;
+}
+
+.menu-item
+{
+    color: #788888!important;
+    text-transform: uppercase;
+    padding-right: 30px;
+}
+
+a.menu-item:active
+{
+    color: black!important;
+}
+
+
+.carousel-item 
+{
+    height: 500px;
+}
+
+.carousel-indicators li 
+{
+    width: 10px;
+    height: 10px;
+    border-radius: 100%;
+    background-color: #00c6ba;
+    margin-right: 10px;
+}
+
+.carousel-indicators 
+{
+    bottom: -50px;
+    padding-right: 10px;
+}
+
+body 
+{
+    background-color: lightslategray;
+}
+
+.texto-titulo-menor
+{
+    text-align: center;
+    padding-top: 60px;
+    color: #00c9b5;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.texto-titulo-maior
+{
+    text-align: center;
+    color: #456466;
+    text-transform: uppercase;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.linha
+{
+    background-color: #00c9b5;
+    border: 0;
+	border-top: 3px solid #00c9b5;
+    width: 100px;
+    display: flex; 
+    
+}
+
+.tres-imagens
+{
+    padding-top: 60px;
+    padding-left: 60px;
+}
+
+.tres-imagens-texto
+{
+    text-align: center;
+    padding-top: 30px;
+    padding-right: 60px;
+    color: #456466;
+}
+
+.titulo1-medica
+{
+    padding-top: 100px;
+    font-size: 12px;
+    color: #7df5f6;
+    text-transform: uppercase;
+    font-weight: 900;
+}
+
+.titulo2-medica
+{
+    font-size: 20px;
+    color: #74898c;
+    font-weight: bold;
+}
+
+.titulo3-medica
+{
+    font-size: 14px;
+    color: #d5d5d5;
+    font-weight: bold;
+}
+
+.linha-medica
+{
+    background-color: #00c9b5;
+    border: 0;
+	border-top: 3px solid #00c9b5;
+    width: 100px;
+    display: flex; 
+}
+
+.texto-medica
+{
+    color: #b5bebb;
+}
+
+.coluna1-medica
+{
+    background-color: #e7e7e7;
+    padding-left: 100px;
+    padding-top: 20px;
+}
+
+.areas-atuacao .bg
+{
+    background-image: url("../imagens/microscopio.jpg")!important;
+    background-size: cover;
+    width: 100%; 
+    height: 500px;
+    opacity: 0.6;  
+}
+
+.cards
+{
+    margin-bottom: 60px;
+}
+
+.img-map
+{
+    background-image: url("../imagens/map.png")!important;
+    background-size: cover;
+    width: 100%; 
+    height: 500px;
+}
+
+.fundo-depoimentos
+{
+    background-color: #f6f6f6;
+    height: 550px;
+}
+
+.depoimento-img
+{
+    border-radius: 100%;
+    border-color: #39ddc5;
+    border-style: solid;
+    border-width: 10px;
+    padding: 5px;
+    height: 200px;
+    width: 200px;
+    margin-right: 200px;
+    margin-top: 30px;
+}
+
+.depoimento
+{
+    
+    border-color: white;
+    border-style: solid;
+    height: 120px;
+    width: 240px;
+    padding: 10px;
+    position: relative;
+    right: 260px;
+    top: 180px;
+    background-color: white;
+    box-shadow: 0 0 1em #808080;
+}
+
+.next
+{
+    position: relative;
+    right: 700px;
+    top: 50px;
+    color: #26d9c3;
+    font-size: 60px;
+}
+
+.previous
+{
+    position: relative;
+    left: 450px;
+    top: 50px;
+    color: #26d9c3;
+    font-size: 60px;
+}
+
+.footer
+{
+    background-color: #00c9b9;
+    height: 300px;
+}
+
+.logo-footer
+{
+    margin-top: 60px;
+    height: 200px;
+}
+
+.footer2
+{
+    margin-top: 60px;
+    margin-left: 60px;
+    font-size: 20px;
+    height: 60px;
+    width: 100%;
+    color: white;
+}
+
+.icones-footer
+{
+    padding: 10px;
+    color: white;
+    font-size: 50px;
+    position: relative;
+    top: 250px;
+}
+.footer-direitos
+{
+    margin-top: 10px;
+    color:#456466;
+    height: 50px;
+}
+
+.w3midia
+{
+    color: #00c9b9;
+}
